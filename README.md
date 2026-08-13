@@ -44,7 +44,7 @@ Provides an overall view of customer reviews and app performance.
 
 ### Dashboard Preview
 
-![Executive Summary](screenshots/executive_summary.png)
+![Executive Summary](executive_summary.jpeg)
 
 ## 2. App Performance Analysis
 
@@ -91,7 +91,7 @@ Provides deeper insights into customer behavior and review characteristics.
 
 ### Dashboard Preview
 
-![Customer Sentiment & Insights](screenshots/customer_sentiment_insights.png)
+![Customer Sentiment & Insights](customer_sentiment_insights.jpeg))
 
 # 🎯 Key Skills Demonstrated
 
