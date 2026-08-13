@@ -60,7 +60,7 @@ Compares shopping applications based on reviews, ratings, sentiment, and custome
 
 ### Dashboard Preview
 
-![App Performance Analysis](screenshots/app_performance_analysis.png)
+![App Performance Analysis](app_performance_analysis.jpeg)
 
 ## 3. Review Trends & Sentiment
 
@@ -76,7 +76,7 @@ Analyzes customer review patterns and sentiment over time.
 
 ### Dashboard Preview
 
-![Review Trends & Sentiment](screenshots/review_trends_sentiment.png)
+![Review Trends & Sentiment](review_trends_sentiment.jpeg)
 
 ## 4. Customer Sentiment & Insights
 
